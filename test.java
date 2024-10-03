@@ -101,11 +101,7 @@ public class test{
 
         }
 
-        // JUST FOR TESTING AND SEE THE BOOKED ROOMS..
-        for(int i = 0 ; i< rBook.size() ; i++){
-            
-            rBook.get(i).show();
-        } 
+
 
 
 
